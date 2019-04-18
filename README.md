@@ -1,2 +1,2 @@
-# python_pdf_sample
+# Python PDF Sample
 Display PDF page using Tkinter and PDFix SDK
